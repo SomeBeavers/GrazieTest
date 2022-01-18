@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net6_Console", "net6_Console\net6_Console.csproj", "{A4C1DB84-B227-4414-A198-9C2C0F1B64C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "net6_Console", "net6_Console\net6_Console.csproj", "{A4C1DB84-B227-4414-A198-9C2C0F1B64C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib_Framework", "Lib_Framework\Lib_Framework.csproj", "{92082A57-375E-4983-9E22-23664E82BDF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A4C1DB84-B227-4414-A198-9C2C0F1B64C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4C1DB84-B227-4414-A198-9C2C0F1B64C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4C1DB84-B227-4414-A198-9C2C0F1B64C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92082A57-375E-4983-9E22-23664E82BDF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92082A57-375E-4983-9E22-23664E82BDF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92082A57-375E-4983-9E22-23664E82BDF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92082A57-375E-4983-9E22-23664E82BDF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

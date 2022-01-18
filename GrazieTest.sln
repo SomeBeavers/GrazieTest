@@ -7,7 +7,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "net6_Console", "net6_Consol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib_Framework", "Lib_Framework\Lib_Framework.csproj", "{92082A57-375E-4983-9E22-23664E82BDF2}"
 EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "SharedProject", "SharedProject\SharedProject.shproj", "{DFC14BF9-7AB9-44EB-A241-636693ECC957}"
+EndProject
 Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		SharedProject\SharedProject.projitems*{92082a57-375e-4983-9e22-23664e82bdf2}*SharedItemsImports = 4
+		SharedProject\SharedProject.projitems*{a4c1db84-b227-4414-a198-9c2c0f1b64c4}*SharedItemsImports = 5
+		SharedProject\SharedProject.projitems*{dfc14bf9-7ab9-44eb-a241-636693ecc957}*SharedItemsImports = 13
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU

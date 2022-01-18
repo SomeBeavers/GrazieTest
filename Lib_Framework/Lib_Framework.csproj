@@ -44,5 +44,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Smoke.cs" />
   </ItemGroup>
+  <Import Project="..\SharedProject\SharedProject.projitems" Label="Shared" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

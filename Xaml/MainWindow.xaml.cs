@@ -28,6 +28,7 @@ namespace Xaml
         public MainWindow()
         {
             InitializeComponent();
+            string s = Properties.Resources.MainWindow_MainWindow_string_in_resource;
         }
     }
 }

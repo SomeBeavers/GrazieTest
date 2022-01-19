@@ -7,6 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <CalendarButton>MainWindow</CalendarButton>
+        <CalendarButton Background="AliceBlue">MainWindow
+            <CalendarButton.AllowDrop>False</CalendarButton.AllowDrop>
+            <CalendarButton.Click></CalendarButton.Click>
+        </CalendarButton>
+        <!--Im comment AliceBlue-->
     </Grid>
 </Window>

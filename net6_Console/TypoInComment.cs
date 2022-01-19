@@ -1,5 +1,5 @@
 ﻿namespace net6_Console;
-
+//coment
 public class TypoInComment
 {
     /*

@@ -17,7 +17,7 @@ namespace SharedProject
 #else
         // Tst my comment
 
-        public void Tst()
+        public void Test()
         {
         }
 #endif

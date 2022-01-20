@@ -33,7 +33,22 @@ public class Languages
      * typo:
      * ощень сложно
      *
-
+         * Deutsch (Deutschland)
+     * ---------------------
+     *
+     * no typo:
+     *
+     * typo:
+     * Prüfvarschrift
+     *
+     * Deutsch (Osterreich)
+     * ---------------------
+     * no typo:
+     *
+     *
+     * typo:
+     * Am östereichischen Deutsch zeigt sich die plurizentrische 
+     *
      *
      *
      *

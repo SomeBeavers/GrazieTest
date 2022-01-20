@@ -16,46 +16,61 @@ public class Languages
      * typo:
      * theater
      *
-     * English(Great Britain)
-     * ---------------------
-     * no typo:
-     * travelling
-     * flavour
-     *
-     * typo:
-     * 	traveling
-     *
-     * Русский
-     * ---------------------
-     * no typo:
-     * ох, русский сложно
-     *
-     * typo:
-     * ощень сложно
-     * Локалная
-     *
-         * Deutsch (Deutschland)
-     * ---------------------
-     *
-     * no typo:
-     *
-     * typo:
-     * Prüfvarschrift
-     *
-     * Deutsch (Osterreich)
-     * ---------------------
-     * no typo:
-     *
-     *
-     * typo:
-     * Am östereichischen Deutsch zeigt sich die plurizentrische 
-     *
-     *
-     *
-     *
-     *
-     *coment
      */
+
+
+    /*
+     * English(Great Britain)
+    * ---------------------
+    * no typo:
+    * travelling
+    * flavour
+    *
+    * typo:
+    * 	traveling
+    */
+
+    /* Русский
+    * ---------------------
+    * no typo:
+    * ох, русский сложно
+    *
+    * typo:
+    * ощень сложно
+    * Локалная
+    */
+
+    /* Deutsch (Deutschland)
+    * ---------------------
+    *
+    * no typo:
+    *
+    * typo:
+    * Prüfvarschrift
+    */
+
+    /* Deutsch (Osterreich)
+    * ---------------------
+    * no typo:
+    *
+    *
+    * typo:
+    * Am östereichischen Deutsch zeigt sich die plurizentrische 
+    */
+
+    /* Asturianu
+    * ---------------------
+    * no typo:
+    * Bonos díes
+    *
+    * typo:
+    * Bonos días
+    */
+
+
+    /*
+    *coment
+    */
 
     private void ТестМетод()
     {
@@ -70,4 +85,6 @@ public class Languages
         string diktionär = "der Prüfvarschrift";
 #pragma warning restore CS0219
     }
+
+
 }

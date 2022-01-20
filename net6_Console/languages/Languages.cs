@@ -33,24 +33,24 @@ public class Languages
      * typo:
      * ощень сложно
      *
-     *
-     *aaa
-     *
+
      *
      *
      *
      *
-     *
-     *
+     *coment
      */
 
     private void ТестМетод()
     {
 #pragma warning disable CS0219
-        string мояЛокалнаяСтрочкаСАшибкой = "Локалная";
-        string мояЛокалнаяСтрочкаСАшибкой2 = "Ашибка";
-        string myLocalStrin = "strin";
+        //string мояЛокалнаяСтрочкаСАшибкой = "Локалная";
+        //string мояЛокалнаяСтрочкаСАшибкой2 = "Ашибка";
+        // 
 
+        string myLocalStrin = "strin is here daaaa";
+
+        // der Prüfvarschrift
         string diktionär = "der Prüfvarschrift";
 #pragma warning restore CS0219
     }

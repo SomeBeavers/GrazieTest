@@ -32,6 +32,7 @@ public class Languages
      *
      * typo:
      * ощень сложно
+     * Локалная
      *
          * Deutsch (Deutschland)
      * ---------------------

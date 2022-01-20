@@ -6,6 +6,7 @@ public class ClasNameWithTypo
     // ClasNameWithTypo
     // коммент на русском.
     // Comment are placed here.
+    // еще один русский коммент
 
     private void Test() {
         string someName = "";

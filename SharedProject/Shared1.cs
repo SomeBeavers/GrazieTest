@@ -9,14 +9,14 @@ namespace SharedProject
         // Test my comment
 
 #if NET6_0
-        // Tst my comment
+        // Tst my coment
 
         public void Tst()
         {
 int t = 1;
         }
 #else
-        // Tst my comment
+        // Tst my coment
 
         public void Tst()
         {

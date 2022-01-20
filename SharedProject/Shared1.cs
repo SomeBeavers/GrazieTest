@@ -13,12 +13,14 @@ namespace SharedProject
 
         public void Tst()
         {
+int t = 1;
         }
 #else
         // Tst my comment
 
-        public void Test()
+        public void Tst()
         {
+            int t = 1;
         }
 #endif
     }

@@ -6,6 +6,7 @@
 
 int main()
 {
+    // камент на русском
     int coutVariable = 1;
     auto r_test_tring = R"(test tring)";
     std::cout << "Hello World!\n";

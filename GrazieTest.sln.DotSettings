@@ -8,6 +8,7 @@
 $SOLUTION$&#xD;
 $PROJECT$&#xD;
 $FILENAME$</s:String>
-	<s:String x:Key="/Default/ReSpeller/ActiveSpeller/@EntryValue">Grazie Speller</s:String>
+	<s:String x:Key="/Default/ReSpeller/ActiveSpeller/@EntryValue">Hunspell</s:String>
 	<s:Boolean x:Key="/Default/ReSpeller/CheckPublic/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/ReSpeller/JavaBinaryPath/@EntryValue">c:\Program Files</s:String>
 	<s:Boolean x:Key="/Default/ReSpeller/ReSpellerEnabled/@EntryValue">True</s:Boolean></wpf:ResourceDictionary>

@@ -15,6 +15,11 @@
     <Compile Include="md\md.md" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="code\" />
+    <Folder Include="disable analysis\" />
+  </ItemGroup>
+
   <Import Project="..\SharedProject\SharedProject.projitems" Label="Shared" />
 
 </Project>

@@ -1,4 +1,5 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=A4C1DB84_002DB227_002D4414_002DA198_002D9C2C0F1B64C4_002Fd_003Adisable_0020analysis_002Ff_003AIgnoredCode_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=CommentTypo/@EntryIndexedValue">ERROR</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=IdentifierTypo/@EntryIndexedValue">ERROR</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=MarkupAttributeTypo/@EntryIndexedValue">ERROR</s:String>
@@ -8,7 +9,8 @@
 $SOLUTION$&#xD;
 $PROJECT$&#xD;
 $FILENAME$</s:String>
-	<s:Boolean x:Key="/Default/Housekeeping/ProjectModelSynchronizer/ReadProjectModelFromDisk/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=A4C1DB84_002DB227_002D4414_002DA198_002D9C2C0F1B64C4_002Fd_003Adisable_0020analysis_002Ff_003AThirdPartySkippedCode_002Ecs/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Housekeeping/ProjectModelSynchronizer/ReadProjectModelFromDisk/@EntryValue">True</s:Boolean>
 	<s:String x:Key="/Default/ReSpeller/ActiveSpeller/@EntryValue">Grazie Speller</s:String>
 	<s:Boolean x:Key="/Default/ReSpeller/CheckPublic/@EntryValue">True</s:Boolean>
 	<s:String x:Key="/Default/ReSpeller/JavaBinaryPath/@EntryValue">C:\Program Files\Java\jdk-17.0.2\bin\java.exe</s:String>

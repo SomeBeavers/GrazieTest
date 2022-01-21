@@ -8,6 +8,7 @@
 $SOLUTION$&#xD;
 $PROJECT$&#xD;
 $FILENAME$</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/ProjectModelSynchronizer/ReadProjectModelFromDisk/@EntryValue">False</s:Boolean>
 	<s:String x:Key="/Default/ReSpeller/ActiveSpeller/@EntryValue">Grazie Speller</s:String>
 	<s:Boolean x:Key="/Default/ReSpeller/CheckPublic/@EntryValue">True</s:Boolean>
 	<s:String x:Key="/Default/ReSpeller/JavaBinaryPath/@EntryValue">C:\Program Files\Java\jdk-17.0.2\bin\java.exe</s:String>

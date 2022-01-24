@@ -62,11 +62,21 @@ public struct MyStrucA
 }
 
 
+// AFAIR
 #region region with typo in coment
 
+[My("dsfsfdsf")]
 internal interface IComentInterface
 {
 
+}
+
+internal class MyAttribute : Attribute
+{
+    public MyAttribute(string dsfsfdsf)
+    {
+        throw new NotImplementedException();
+    }
 }
 
 #endregion

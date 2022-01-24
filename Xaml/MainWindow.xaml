@@ -12,5 +12,8 @@
             <CalendarButton.Click>ButtonBase_OnClick</CalendarButton.Click>
         </CalendarButton>
         <!--Im comment AliceBlue-->
+<!--     -->
+        <Button Content=""></Button>
     </Grid>
+
 </Window>

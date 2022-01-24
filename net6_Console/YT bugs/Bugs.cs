@@ -33,5 +33,6 @@ public class Bugs
         using (var fs = File.OpenText("c:\\testing\\census-in.csv")) { }
 
         string outputResources = @"output\resources";
+        // Initialzier
     }
 }

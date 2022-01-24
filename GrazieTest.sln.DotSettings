@@ -9,9 +9,20 @@
 $SOLUTION$&#xD;
 $PROJECT$&#xD;
 $FILENAME$</s:String>
+	<s:Boolean x:Key="/Default/CodeStyle/Naming/CSharpNaming/ApplyAutoDetectedRules/@EntryValue">False</s:Boolean>
+	<s:String x:Key="/Default/CodeStyle/Naming/CSharpNaming/PredefinedNamingRules/=TypesAndNamespaces/@EntryIndexedValue">&lt;Policy Inspect="True" Prefix="" Suffix="" Style="AaBb"&gt;&lt;ExtraRule Prefix="" Suffix="" Style="AaBb_AaBb" /&gt;&lt;/Policy&gt;</s:String>
 	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=A4C1DB84_002DB227_002D4414_002DA198_002D9C2C0F1B64C4_002Fd_003Adisable_0020analysis_002Ff_003AThirdPartySkippedCode_002Ecs/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/ProjectModelSynchronizer/ReadProjectModelFromDisk/@EntryValue">True</s:Boolean>
 	<s:String x:Key="/Default/ReSpeller/ActiveSpeller/@EntryValue">Grazie Speller</s:String>
+	<s:Boolean x:Key="/Default/ReSpeller/CheckInternal/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ReSpeller/CheckLocals/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ReSpeller/CheckPrivate/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ReSpeller/CheckProtected/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ReSpeller/CheckProtectedInternal/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/ReSpeller/CheckPublic/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ReSpeller/DocCommentsUseMemberModifiers/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/ReSpeller/DontCheckInheritedMembers/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/ReSpeller/DontCheckVerbatimStrings/@EntryValue">False</s:Boolean>
 	<s:String x:Key="/Default/ReSpeller/JavaBinaryPath/@EntryValue">C:\Program Files\Java\jdk-17.0.2\bin\java.exe</s:String>
-	<s:Boolean x:Key="/Default/ReSpeller/ReSpellerEnabled/@EntryValue">True</s:Boolean></wpf:ResourceDictionary>
+	<s:Boolean x:Key="/Default/ReSpeller/ReSpellerEnabled/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Membrs/@EntryIndexedValue">False</s:Boolean></wpf:ResourceDictionary>

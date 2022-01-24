@@ -30,5 +30,10 @@ namespace Xaml
             InitializeComponent();
             string s = Properties.Resources.MainWindow_MainWindow_string_in_resource;
         }
+
+        private void ButtonBase_OnClick(object sender, RoutedEventArgs e)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

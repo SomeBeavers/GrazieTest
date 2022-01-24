@@ -16,7 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="code\" />
     <Folder Include="disable analysis\" />
   </ItemGroup>
 

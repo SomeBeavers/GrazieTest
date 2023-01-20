@@ -7,6 +7,7 @@ namespace SharedProject
     internal class Shared1
     {
         // Test my comment
+        // I'm bit angry today
 
 #if NET6_0
         // Tst my coment
@@ -17,8 +18,13 @@ int t = 1;
         }
 #else
         // Tst my coment
+        // another coment is here
 
-        public void Tst()
+        public void Test2()
+        {
+        }
+
+        public void Test()
         {
             int t = 1;
         }

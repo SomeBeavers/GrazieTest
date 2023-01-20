@@ -12,6 +12,7 @@ namespace ASPX
         protected void Page_Load(object sender, EventArgs e)
         {
             string infomation = "infomation";
+            string infomation2 = "infomation";
         }
     }
 }

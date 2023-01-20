@@ -2,8 +2,18 @@
 //coment
 public class TypoInComment
 {
+    // руский комент здсь
+
     /*
-     I'm long comment with typo
+     руский коммент
+     now i'm long coment with typo
      deal with it
     */
-}
+
+    public void Test(string s1)
+    {
+        var s = "     now " +
+                @"i'm long coment with typo\r\n     deal with it";
+        var t = 1;
+    }
+        } 

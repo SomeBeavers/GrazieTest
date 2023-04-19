@@ -9,6 +9,8 @@ public class StringLiterals
 {
     public void StringLiterals1()
     {
+        String s = "I'm bit weak today. Realy";
+        
         var string1 = "in future we will do better for sure!!!!";
         var string2 = @"lets
 check how opened string 

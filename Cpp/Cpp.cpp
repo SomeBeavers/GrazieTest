@@ -8,8 +8,8 @@ int main()
 {
     // камент на русском
     int coutVariable = 1;
-    auto r_test_tring = R"(test tring)";
-    std::cout << "Hello World!\n";
+	auto r_test_tring = R"(I'm bit confused about the R()";
+    std::cout << "Hello Word!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

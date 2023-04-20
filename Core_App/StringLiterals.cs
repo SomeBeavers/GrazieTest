@@ -39,5 +39,10 @@ is handled
 
         // dank je wel frouw
         // dank je wel frouw 
+        // Ik heb gekikerd
+        void LocalFunctionWithtypoInName()
+        {
+
+        }
     }
 }

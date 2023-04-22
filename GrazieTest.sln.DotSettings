@@ -5,10 +5,12 @@
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=MarkupAttributeTypo/@EntryIndexedValue">ERROR</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=MarkupTextTypo/@EntryIndexedValue">ERROR</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=StringLiteralTypo/@EntryIndexedValue">ERROR</s:String>
-	<s:String x:Key="/Default/Grazie/LanguagesStates/=Deutsch_0020_0028Deutschland_0029/@EntryIndexedValue">Enabled</s:String>
+	<s:Boolean x:Key="/Default/Grazie/Exceptions/=_0440_0443_0441_0441_043A_0438_0439/@EntryIndexedValue">False</s:Boolean>
+	<s:String x:Key="/Default/Grazie/LanguagesStates/=Deutsch_0020_0028Deutschland_0029/@EntryIndexedValue">Default</s:String>
 	
 	<s:String x:Key="/Default/Grazie/LanguagesStates/=_0420_0443_0441_0441_043A_0438_0439/@EntryIndexedValue">Enabled</s:String>
 	<s:String x:Key="/Default/Grazie/LanguagesStates/=Nederlands/@EntryIndexedValue">Enabled</s:String>
 	<s:String x:Key="/Default/Grazie/RulesStates/=LanguageTool_002ENL_002EUPPERCASE_005FSENTENCE_005FSTART/@EntryIndexedValue">DisabledByUser</s:String>
+	<s:Boolean x:Key="/Default/InstalledDictionaries/InstalledDictionaries/=C_003A_005CUsers_005CLilia_002EShamsutdinova_005CDesktop_005CReSpeller_0020dictionary_005Cru2_005Cindex_002Edic/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/ReSpeller/ReSpellerEnabled/@EntryValue">True</s:Boolean>
-	<s:Boolean x:Key="/Default/UserDictionary/Words/=Withtypo/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Withtypo/@EntryIndexedValue">False</s:Boolean></wpf:ResourceDictionary>

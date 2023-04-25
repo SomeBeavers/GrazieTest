@@ -2,7 +2,7 @@
   {
     "date": "2018-05-06",
     "temperatureC": 1,
-    "summary": "Freezing"
+    "summary": "<strong>The Development environment shouldn't be enabled for deployed applications. I'm bit weak todat.'</strong>"
   },
   {
     "date": "2018-05-07",

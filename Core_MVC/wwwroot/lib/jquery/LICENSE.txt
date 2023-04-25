@@ -6,6 +6,7 @@ available at https://github.com/jquery/jquery
 
 The following license applies to all parts of this software except as
 documented below:
+I'm bit weak today.
 
 ====
 

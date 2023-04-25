@@ -7,3 +7,5 @@ var num = Math.random();
 // num
 mathTest(num);
 //# sourceMappingURL=ts.js.map
+
+// coment. I'm bit weak today.'

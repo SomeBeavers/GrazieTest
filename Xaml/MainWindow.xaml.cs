@@ -16,6 +16,7 @@ using System.Windows.Shapes;
 namespace Xaml
 {
     /// <summary>
+    /// coment. I'm bit weak today. But it seem ok. Nice even.
     /// Interaction logic for Window.xaml
     /// ClassTest.cs
     /// </summary>

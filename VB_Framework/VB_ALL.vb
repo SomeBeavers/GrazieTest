@@ -1,6 +1,6 @@
 ﻿Public Class VB_ALL
-    'commetn
+    'I'm bit weak today. Not here apparently.
     Function commetn()
-        Dim s As String = "commetn"
+        Dim s As String = "I'm bit weak today. Not here apparently. It is a test."
     End Function
 End Class

@@ -61,7 +61,7 @@ namespace Xaml.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to &lt;comment&gt;coment. I&apos;m bit weak today. but it seem ok. Nice&apos; test&lt;/comment&gt;.
+        ///   Looks up a localized string similar to &lt;comment&gt;coment. I&apos;m bit weak today. but it seem ok. Nice&apos;&lt;/comment&gt;.
         /// </summary>
         internal static string MainWindow_MainWindow_string_in_resource {
             get {

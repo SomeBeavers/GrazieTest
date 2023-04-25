@@ -12,6 +12,7 @@
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/RulesStates/=LanguageTool_002EEN_002EA_005FMY/@EntryIndexedValue">DisabledByUser</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/RulesStates/=LanguageTool_002ERU_002EUPPERCASE_005FSENTENCE_005FSTART/@EntryIndexedValue">DisabledByUser</s:String>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/GrammarChecking/Scope/CheckInComments/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/GrammarAndSpelling/GrammarChecking/Scope/CheckInStringLiterals/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/GrammarChecking/Scope/DisabledPsiLanguages/=ASPX/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/GrammarChecking/Scope/DisabledPsiLanguages/=CSHARP/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/IgnoredWords/=Withtypo/@EntryIndexedValue">False</s:Boolean>

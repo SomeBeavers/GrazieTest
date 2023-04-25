@@ -10,6 +10,10 @@ Console.WriteLine("hello my dear World!");
 // I'm bit weak today.
 // I'm bit weak today.
 // the my car is in garags.
+// test
+
+
+
 
 class MyClass
 {
@@ -19,6 +23,9 @@ class MyClass
     /// </summary>
     public void MyMethod()
     {
-  
+        var s = "";
+        //
+        //
+        //
     }
 }

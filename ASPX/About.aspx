@@ -7,6 +7,6 @@
      <h3>Your application description page. infomation</h3>.
      --%>
     <a></a>
-    <abbr title="Phone infomation">P:</abbr>
+    <abbr title="Phone infomation. I'm bit weak today.">P:</abbr>
     <asp:Label ID="lbl" runat="server" Text="Label text my infomation"></asp:Label>
 </asp:Content>

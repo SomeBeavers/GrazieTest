@@ -20,7 +20,7 @@ int t = 1;
         // Tst my coment
         // another coment is here
 
-        public void Test2()
+        public void Coment()
         {
         }
 

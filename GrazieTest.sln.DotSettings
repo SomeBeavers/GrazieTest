@@ -15,8 +15,8 @@
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/GrammarChecking/Scope/CheckInStringLiterals/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/GrammarChecking/Scope/DisabledPsiLanguages/=ASPX/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/GrammarChecking/Scope/DisabledPsiLanguages/=CSHARP/@EntryIndexedValue">False</s:Boolean>
-	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/IgnoredWords/=Identifir/@EntryIndexedValue">False</s:Boolean>
-	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/IgnoredWords/=Withtypo/@EntryIndexedValue">False</s:Boolean>
+	
+	
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/InstalledDictionaries/=C_003A_005CUsers_005CLilia_002EShamsutdinova_005CDesktop_005CReSpeller_0020dictionary_005Cru2_005Cindex_002Edic/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Grazie/Exceptions/=_0440_0443_0441_0441_043A_0438_0439/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Grazie/GrammarCheckingScope/CheckInDocumentation/@EntryValue">False</s:Boolean>

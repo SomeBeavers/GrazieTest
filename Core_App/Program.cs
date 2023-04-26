@@ -8,5 +8,7 @@ class MyClass
     {
         //Console.WriteLine("I'm bit weak today. Not here apparently. It is test.");
         //string apparently = "I'm bit weak today. Not here apparently. It is test. Apparently";
+
+        Console.WriteLine("I'm bit weak today. Not here apparently. It is test. ");
     }
 }

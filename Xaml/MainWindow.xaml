@@ -9,11 +9,13 @@
     <Grid>
         <CalendarButton Background="AliceBlue">MainWindow
             <CalendarButton.AllowDrop>False</CalendarButton.AllowDrop>
-            <CalendarButton.Click>ButtonBase_OnClick</CalendarButton.Click>
+    
         </CalendarButton>
-        <!--Im comment AliceBlue-->
+        <!--Im coment AliceBlue. I needed to safe the luggage on top of the van.-->
 <!--     -->
-        <Button Content=""></Button>
+        <Button>
+            <Button.Content>I'm bit weak today. But it is ok apparently.</Button.Content>
+        </Button>
     </Grid>
 
 </Window>

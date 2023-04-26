@@ -4,8 +4,6 @@ function mathTest(num) {
     console.log("Square root:  " + squareRoot);
 }
 var num = Math.random();
-// num
+// num. I'm bit weak today. Nice!
 mathTest(num);
 //# sourceMappingURL=ts.js.map
-
-// coment. I'm bit weak today.'

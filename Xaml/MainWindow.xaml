@@ -13,8 +13,8 @@
         </CalendarButton>
         <!--Im coment AliceBlue. I needed to safe the luggage on top of the van.-->
 <!--     -->
-        <Button>
-            <Button.Content>I'm bit weak today. But it is ok apparently.</Button.Content>
+        <!--This is different from that.-->
+        <Button Click="ButtonBase_OnClick" Content="I&apos;m bit weak today. But it is ok apparently.">
         </Button>
     </Grid>
 

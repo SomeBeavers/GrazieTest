@@ -16,6 +16,15 @@ namespace SharedProject
         {
 int t = 1;
         }
+
+        /// <summary>
+        /// This metod gets the value of the <see cref="Tst"/> property which is
+        /// different then the <see cref="Tst"/> method.
+        /// </summary>
+        public void GetSometingWithTypo()
+        {
+
+        }
 #else
         // Tst my coment
         // another coment is here

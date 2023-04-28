@@ -18,8 +18,17 @@ namespace net6_Console
 
         private void Test2()
         {
-            const string format = Format;
-            Console.WriteLine(format);
+            const string formatLiterlStrin = Format;
+            Console.WriteLine(formatLiterlStrin);
+
+
+            string s = @"coment. This is different then that. Which is bit confusing now.";
+        }
+
+        class MyInerClassWithManyTyposToGetStrin/*WithManyTyposToGetStrinWithSpacs*/
+        {
+            public string MyPropetry { get; set; }
         }
     }
+
 }

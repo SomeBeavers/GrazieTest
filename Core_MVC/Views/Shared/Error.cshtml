@@ -8,12 +8,14 @@
 
 @if (Model?.ShowRequestId ?? false)
 {
+    string myStrinLiterl = "This is different from that. Comment";
     <p>
         <strong>Request ID:</strong> <code>@Model?.RequestId</code>
     </p>
 }
 
-<h3>Development Mode</h3>
+<h3>Development Mode is different then Debug Mode</h3>
+@*<h4 title="I'm bit weak today.">I'm bit weak today.</h4>*@
 <p>
     Swapping to <strong>Development</strong> environment will display more detailed information about the error that occurred.
 </p>

@@ -115,7 +115,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="MainWindow_MainWindow_string_in_resource" xml:space="preserve">
-	  <value>string in resource. I'm bit weak today. Nice' test. The my car is in garags.</value>
+	  <value name="This is different then tat. coment">string in resource. I'm bit weak today. Nice' test. The my car is in garags.</value>
 	  <comment>
 I'm bit weak today. But it seem ok, just like every day. Where inspections? Not here apparently.
   </comment>

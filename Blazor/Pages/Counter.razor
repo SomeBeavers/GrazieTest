@@ -4,15 +4,16 @@
 
 <h1>Counter</h1>
 
-<p role="status">Current count: @currentCount</p>
+<p role="status">Current count: @currentCount is different then @currentCount</p>
 
-<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+<button class="btn btn-primary" @onclick="IncrementCount">Click the me</button>
 
 @code {
     private int currentCount = 0;
 
     private void IncrementCount()
     {
+        string myStrinLiteral = "This is different then that";
         currentCount++;
     }
 }

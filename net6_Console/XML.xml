@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <start>
-	<first> commonly used</first>
-	<coment value="I'm bit angry today"></coment>
+	<first> commonly used is different then not commonly used. coment</first>
+	<coment value="I'm bit angry today. coment"></coment>
 </start>

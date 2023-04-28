@@ -6,7 +6,7 @@
 
 int main()
 {
-    // камент на русском
+    //this is different then that.
     int coutVariable = 1;
 	auto r_test_tring = R"(I'm bit confused about the R()";
     std::cout << "Hello Word!\n";

@@ -31,6 +31,7 @@ int t = 1;
 
         public void Coment()
         {
+            string s = "This is different from that";
         }
 
         public void Test()

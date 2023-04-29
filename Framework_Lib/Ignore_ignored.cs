@@ -7,33 +7,18 @@
 //     You should received a copy of the GNU General Public License
 //     along with dnSpy.  If not see <http://www.gnu.org/licenses/>.
 
-namespace Core_App;
-
-public class Members
+namespace Framework_Lib
 {
-
-}
-    record ImutableRecord
+    public class Ignore_ignored
     {
-        public ImutableRecord()
-        {
+        
 
-            
-        }
-    }
 
-struct MyStructWhichUsedImutableRecord
-{
-    public ImutableRecord Record { get; set; }
-}
 
-interface IImutableInterface
-{
-    void GetImutableRecord()
-    {
-        void LoclGetImutableParametr(ImutableRecord immutableRecord)
-        {
-            var t = immutableRecord;
-        }
+
+
+
+
+        public Ignore_ignored() { }
     }
 }

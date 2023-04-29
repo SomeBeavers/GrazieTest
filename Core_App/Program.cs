@@ -1,14 +1,7 @@
-﻿
+﻿#nullable disable
+// Exception is throw by the method
+string _ = "Exception is throw by the method";
 
-Console.WriteLine("hello my dear World!");
+//#region I'm bit weak today           
 
-class MyClass
-{
-    public void MyMethod()
-    {
-        //Console.WriteLine("I'm bit weak today. Not here apparently. It is test.");
-        //string apparently = "I'm bit weak today. Not here apparently. It is test. Apparently";
-
-        Console.WriteLine("I'm bit weak today. Not here apparently. It is test. ");
-    }
-}
+//#endregion

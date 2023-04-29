@@ -1,4 +1,5 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/CodeInspection/ExcludedFiles/FileMasksToSkip/=_002A_005Fignored_002Ecs/@EntryIndexedValue">True</s:Boolean>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=CommentTypo/@EntryIndexedValue">ERROR</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=GrammarMistake/@EntryIndexedValue">ERROR</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=IdentifierTypo/@EntryIndexedValue">ERROR</s:String>
@@ -14,9 +15,13 @@
     You should received a copy of the GNU General Public License&#xD;
     along with dnSpy.  If not see &lt;http://www.gnu.org/licenses/&gt;.&#xD;
 </s:String>
+	<s:Boolean x:Key="/Default/CodeStyle/Naming/CSharpNaming/ApplyAutoDetectedRules/@EntryValue">False</s:Boolean>
+	<s:String x:Key="/Default/CodeStyle/Naming/CSharpNaming/PredefinedNamingRules/=Method/@EntryIndexedValue">&lt;Policy Inspect="True" Prefix="" Suffix="" Style="aa_bb" /&gt;</s:String>
 	<s:Boolean x:Key="/Default/Environment/SettingsMigration/IsMigratorApplied/=JetBrains_002EPsiFeatures_002EVisualStudio_002EReSpeller_002EHunspellDictionariesMigration/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/SettingsMigration/IsMigratorApplied/=JetBrains_002EReSharper_002EFeatures_002EReSpeller_002ESettings_002EReSpellerToGrazieSettingsMigration/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/GrammarChecking/Exceptions/=the_0020my/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Deutsch_0020_0028Deutschland_0029/@EntryIndexedValue">Enabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Nederlands/@EntryIndexedValue">Enabled</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=_0420_0443_0441_0441_043A_0438_0439/@EntryIndexedValue">Enabled</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/RulesStates/=LanguageTool_002EEN_002EA_005FMY/@EntryIndexedValue">DisabledByUser</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/RulesStates/=LanguageTool_002ERU_002EPNN_005FON_005FEND/@EntryIndexedValue">EnabledByUser</s:String>
@@ -36,7 +41,14 @@
 	
 	
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/InstalledDictionaries/=C_003A_005CUsers_005CLilia_002EShamsutdinova_005CDesktop_005CReSpeller_0020dictionary_005Cru2_005Cindex_002Edic/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/Scope/CheckInternal/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/Scope/CheckLocals/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/Scope/CheckPrivate/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/Scope/CheckProtected/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/Scope/CheckProtectedInternal/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/Scope/CheckPublic/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/Scope/DocCommentsUseMemberModifiers/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/Scope/DontCheckInheritedMembers/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/Scope/DontCheckVerbatimStrings/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Grazie/Exceptions/=_0440_0443_0441_0441_043A_0438_0439/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Grazie/GrammarCheckingScope/CheckInDocumentation/@EntryValue">False</s:Boolean>
@@ -45,6 +57,7 @@
 	<s:String x:Key="/Default/Grazie/LanguagesStates/=_0420_0443_0441_0441_043A_0438_0439/@EntryIndexedValue">Enabled</s:String>
 	<s:String x:Key="/Default/Grazie/LanguagesStates/=Nederlands/@EntryIndexedValue">Default</s:String>
 	<s:String x:Key="/Default/Grazie/RulesStates/=LanguageTool_002ENL_002EUPPERCASE_005FSENTENCE_005FSTART/@EntryIndexedValue">DisabledByUser</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/ExcludedProjects/ProjectMasksToIgnore/=_002A_005Fignored/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/InstalledDictionaries/InstalledDictionaries/=C_003A_005CUsers_005CLilia_002EShamsutdinova_005CDesktop_005CReSpeller_0020dictionary_005Cru2_005Cindex_002Edic/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/ReSpeller/ReSpellerEnabled/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UserDictionary/Words/=Withtypo/@EntryIndexedValue">False</s:Boolean></wpf:ResourceDictionary>

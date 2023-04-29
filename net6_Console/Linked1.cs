@@ -23,6 +23,7 @@ namespace net6_Console
 
 
             string s = @"coment. This is different then that. Which is bit confusing now.";
+            string s2 = @"coment. This is different then that. Which is bit confusing now.";
         }
 
         class MyInerClassWithManyTyposToGetStrin/*WithManyTyposToGetStrinWithSpacs*/

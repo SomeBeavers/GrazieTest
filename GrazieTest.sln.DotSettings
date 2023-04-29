@@ -22,11 +22,11 @@
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/GrammarChecking/Exceptions/=the_0020my/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/GrammarChecking/Exceptions/=_043D_0435_0020_0434_043E_043B_0436_043D_043E_0020_043F_043E_043A_0430_0020_043D_0435_0020_0432_044B_0447_043B_0438_0020i_002E/@EntryIndexedValue">False</s:Boolean>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Deutsch_0020_0028Deutschland_0029/@EntryIndexedValue">Enabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=English_0020_0028Canada_0029/@EntryIndexedValue">Disabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=English_0020_0028Great_0020Britain_0029/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=English_0020_0028Canada_0029/@EntryIndexedValue">Default</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=English_0020_0028Great_0020Britain_0029/@EntryIndexedValue">Default</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=English_0020_0028USA_0029/@EntryIndexedValue">Enabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Nederlands/@EntryIndexedValue">Disabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Polski/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Nederlands/@EntryIndexedValue">Default</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Polski/@EntryIndexedValue">Default</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=_0420_0443_0441_0441_043A_0438_0439/@EntryIndexedValue">Enabled</s:String>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/GrammarChecking/RemovedBundledLanguages/=English_0020_0028USA_0029/@EntryIndexedValue">False</s:Boolean>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/RulesStates/=LanguageTool_002EEN_002EA_005FMY/@EntryIndexedValue">DisabledByUser</s:String>
@@ -43,6 +43,7 @@
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/GrammarChecking/Scope/DisabledPsiLanguages/=RESX/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/GrammarChecking/Scope/DisabledPsiLanguages/=VBASIC/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/GrammarChecking/Scope/DisabledPsiLanguages/=XML/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/IgnoredWords/=Belomen/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/IgnoredWords/=stringliterals/@EntryIndexedValue">False</s:Boolean>
 	
 	

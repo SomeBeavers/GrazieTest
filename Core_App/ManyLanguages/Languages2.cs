@@ -1,7 +1,16 @@
 ﻿namespace Core_App.ManyLanguages;
 
-public class Languages2
+public class NamenBelomen
 {
+    /// <summary>
+    /// Diese Methode wird verwendet, um den Namen zu erhalten
+    /// .
+    /// </summary>
+    /// <param name="namen"></param>
+    public NamenBelomen(string namen)
+    {
+        Namen = namen;
+    }
     /*
     * Am österreichischen Deutsch zeigt sich die pluripotent
     */
@@ -13,4 +22,11 @@ public class Languages2
     {
 
     }
+
+    public string einen_namen_bekommen()
+    {
+        return Namen;
+    }
+
+    public string Namen { get; set; }
 }

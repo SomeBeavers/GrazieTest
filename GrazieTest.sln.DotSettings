@@ -20,9 +20,15 @@
 	<s:Boolean x:Key="/Default/Environment/SettingsMigration/IsMigratorApplied/=JetBrains_002EPsiFeatures_002EVisualStudio_002EReSpeller_002EHunspellDictionariesMigration/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/SettingsMigration/IsMigratorApplied/=JetBrains_002EReSharper_002EFeatures_002EReSpeller_002ESettings_002EReSpellerToGrazieSettingsMigration/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/GrammarChecking/Exceptions/=the_0020my/@EntryIndexedValue">True</s:Boolean>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Deutsch_0020_0028Deutschland_0029/@EntryIndexedValue">Enabled</s:String>
+	<s:Boolean x:Key="/Default/GrammarAndSpelling/GrammarChecking/Exceptions/=_043D_0435_0020_0434_043E_043B_0436_043D_043E_0020_043F_043E_043A_0430_0020_043D_0435_0020_0432_044B_0447_043B_0438_0020i_002E/@EntryIndexedValue">False</s:Boolean>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Deutsch_0020_0028Deutschland_0029/@EntryIndexedValue">Default</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=English_0020_0028Canada_0029/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=English_0020_0028Great_0020Britain_0029/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=English_0020_0028USA_0029/@EntryIndexedValue">Enabled</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Nederlands/@EntryIndexedValue">Enabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Polski/@EntryIndexedValue">Enabled</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=_0420_0443_0441_0441_043A_0438_0439/@EntryIndexedValue">Enabled</s:String>
+	<s:Boolean x:Key="/Default/GrammarAndSpelling/GrammarChecking/RemovedBundledLanguages/=English_0020_0028USA_0029/@EntryIndexedValue">False</s:Boolean>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/RulesStates/=LanguageTool_002EEN_002EA_005FMY/@EntryIndexedValue">DisabledByUser</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/RulesStates/=LanguageTool_002ERU_002EPNN_005FON_005FEND/@EntryIndexedValue">EnabledByUser</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/RulesStates/=LanguageTool_002ERU_002EUPPERCASE_005FSENTENCE_005FSTART/@EntryIndexedValue">DisabledByUser</s:String>
@@ -37,7 +43,7 @@
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/GrammarChecking/Scope/DisabledPsiLanguages/=RESX/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/GrammarChecking/Scope/DisabledPsiLanguages/=VBASIC/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/GrammarChecking/Scope/DisabledPsiLanguages/=XML/@EntryIndexedValue">False</s:Boolean>
-	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/IgnoredWords/=stringliterals/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/IgnoredWords/=stringliterals/@EntryIndexedValue">False</s:Boolean>
 	
 	
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/InstalledDictionaries/=C_003A_005CUsers_005CLilia_002EShamsutdinova_005CDesktop_005CReSpeller_0020dictionary_005Cru2_005Cindex_002Edic/@EntryIndexedValue">False</s:Boolean>

@@ -21,5 +21,14 @@ namespace WinFormsApp
         {
             // coment
         }
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// This is different then that.
+        /// </summary>
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

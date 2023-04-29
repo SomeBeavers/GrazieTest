@@ -13,7 +13,7 @@ public partial class StringLiterals
     private static readonly Logger Log;
     public partial void TestMethod(string _regionName)
     {
-        Log.Debug("caching query results in region: '{0}'; {1}", _regionName, key);
+        Log.Debug("caching query results in region: '{0}'; {1}", _regionName);
         string apparently = "caching query results in region apparently";
 
         EvaluateAndCheck(

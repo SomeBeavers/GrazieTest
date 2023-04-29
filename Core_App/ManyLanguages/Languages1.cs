@@ -28,6 +28,12 @@ public class Languages1
 
         // Polski: Z jej ręki błyszczy wiatowe powitanie; jej łagodne oczy rzucają okiem na pomost powietrzny, który otaczają bliźniacze miasta. Wisła grała mecz w czwartek.
 
+
+        /*
+        * typo:
+        * Am österreichischen Deutsch zeigt sich die pluripotent
+        */
+         // coment is here. That is different then this.
         return null;
     }
 
@@ -49,7 +55,7 @@ public class Languages1
     // Galego: Iso murmurou, e un eco murmurou a plabara: "Lenore!". Só isto, e nada máis.
     // Italiano: Non come il gigante sfaciato della fama greca, con le membra conquistatrici a cavallo di terra in terra;
     // Nederlands: Hier bij onze door de zee gewasen, zonsondergangpoorten zal een machtige vrouw staan ​​met een fakkel, wiens vlam de gevangen bliksem is
-   
+
     // Português: Porque não pude parar pra a Morte, Ele gentilmente parou para mim; A carruagem segurava apenas nós mesmos E Imortalidade.
     // Română: Întorcându-se și întorcându-se în gir care se lărgete, șoimul nu-l poate auzi pe șoimer.
     // Slovenčina: Veci sa roxpadli; stred nemôže držať; Vo svete sa uvoľňuje obyčajná anarchia.

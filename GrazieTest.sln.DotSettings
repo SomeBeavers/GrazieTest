@@ -25,7 +25,7 @@
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=English_0020_0028Canada_0029/@EntryIndexedValue">Default</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=English_0020_0028Great_0020Britain_0029/@EntryIndexedValue">Default</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=English_0020_0028USA_0029/@EntryIndexedValue">Enabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Nederlands/@EntryIndexedValue">Default</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Nederlands/@EntryIndexedValue">Enabled</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Polski/@EntryIndexedValue">Default</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=_0420_0443_0441_0441_043A_0438_0439/@EntryIndexedValue">Enabled</s:String>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/GrammarChecking/RemovedBundledLanguages/=English_0020_0028USA_0029/@EntryIndexedValue">False</s:Boolean>

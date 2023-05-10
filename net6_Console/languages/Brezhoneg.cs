@@ -2,8 +2,12 @@
 
 public class Brezhoneg
 {
-    // Verão de Sam. Nectariniidae.
-    // Tro-heol eo bleuñvd.
+
+    /* an dour a renk bezañ yen.
+     *
+     *
+     *
+     */
     private void BleuñvEoTroHeol()
     {
         string bleuñveotroheolhere = "Bleuñvd Eo Tro Heol";

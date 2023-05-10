@@ -69,7 +69,7 @@ public class Languages
 
 
     /*
-    *coment
+    * Aquél es el camino.
     */
 
     private void ТестМетод()
@@ -77,7 +77,7 @@ public class Languages
 #pragma warning disable CS0219
         //string мояЛокалнаяСтрочкаСАшибкой = "Локалная";
         //string мояЛокалнаяСтрочкаСАшибкой2 = "Ашибка";
-        // 
+        // coment is here. ther is a typo though.
 
         string myLocalStrin = "strin is here daaaa";
 

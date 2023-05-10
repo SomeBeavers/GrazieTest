@@ -4,5 +4,17 @@
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Brezhoneg/@EntryIndexedValue">Enabled</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Catal_00E0/@EntryIndexedValue">Disabled</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Catal_00E0_0020_0028Valenci_00E0_0029/@EntryIndexedValue">Enabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=English_0020_0028Canada_0029/@EntryIndexedValue">Default</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=English_0020_0028USA_0029/@EntryIndexedValue">Enabled</s:String></wpf:ResourceDictionary>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Dansk/@EntryIndexedValue">Enabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Deutsch_0020_0028Deutschland_0029/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Deutsch_0020_0028_00D6sterreich_0029/@EntryIndexedValue">Enabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=English_0020_0028Canada_0029/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=English_0020_0028Great_0020Britain_0029/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=English_0020_0028USA_0029/@EntryIndexedValue">Enabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Espa_00F1ol/@EntryIndexedValue">Enabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Esperanto/@EntryIndexedValue">Enabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Fran_00E7ais/@EntryIndexedValue">Enabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Gaeilge/@EntryIndexedValue">Enabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Galego/@EntryIndexedValue">Enabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/RulesStates/=LanguageTool_002EGA_002EAG_005FAN_005FAONACH/@EntryIndexedValue">EnabledByUser</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/RulesStates/=LanguageTool_002EGA_002EAG_005FAN_005FLEIBH_00C9AL/@EntryIndexedValue">EnabledByUser</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/RulesStates/=LanguageTool_002EGL_002EDETRAS_005FMINHA/@EntryIndexedValue">DisabledByUser</s:String></wpf:ResourceDictionary>

@@ -7,6 +7,6 @@ public class Brezhoneg
     private void BleuñvEoTroHeol()
     {
         string bleuñveotroheolhere = "Bleuñvd Eo Tro Heol";
-        string bleuñveotroheolhere2= "Bleuñv Eo Tro Heol";
+        string bleuñveotroheolhere2 = "Bleuñv Eo Tro Heol";
     }
 }

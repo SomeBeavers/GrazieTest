@@ -18,6 +18,11 @@
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Galego/@EntryIndexedValue">Enabled</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Italiano/@EntryIndexedValue">Enabled</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Nederlands/@EntryIndexedValue">Enabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Polski/@EntryIndexedValue">Enabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Portugu_00EAs_0020_0028Angola_0029/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Portugu_00EAs_0020_0028Brasil_0029/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Portugu_00EAs_0020_0028Mo_00E7ambique_0029/@EntryIndexedValue">Enabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Portugu_00EAs_0020_0028Portugal_0029/@EntryIndexedValue">Default</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/RulesStates/=LanguageTool_002EGA_002EAG_005FAN_005FAONACH/@EntryIndexedValue">EnabledByUser</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/RulesStates/=LanguageTool_002EGA_002EAG_005FAN_005FLEIBH_00C9AL/@EntryIndexedValue">EnabledByUser</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/RulesStates/=LanguageTool_002EGL_002EDETRAS_005FMINHA/@EntryIndexedValue">DisabledByUser</s:String>

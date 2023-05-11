@@ -12,4 +12,7 @@ public class Romania
 
     // I'm bit of today so worry
     public const string s3 = "I'm bit of today so worry";
+
+    // strin with typo
+    public const string s4 = "strin with typo";
 }

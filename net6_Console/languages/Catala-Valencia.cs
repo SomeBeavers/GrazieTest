@@ -24,7 +24,7 @@ public class Catala_Valencia
 
     /// <summary>
     /// Avis per tempestes arreu del país. Avis de tempesta.
-    /// Seguretat alimentaria.
+    /// Seguretat alimentaria. 
     /// </summary>
     /// <param name="other"></param>
     /// <returns></returns>

@@ -1,7 +1,33 @@
-﻿#nullable disable
-// Exception is throw by the method
-string _ = "Exception is throw by the method";
+﻿// See https://aka.ms/new-console-template for more information
 
-//#region I'm bit weak today           
+Console.WriteLine("hello my dear World!");
 
-//#endregion
+// русский комментарий
+// русский комментарий
+// русский комментарий
+// русский комментарий
+// русский комментарий
+// I'm bit weak today.
+// I'm bit weak today.
+// the my car is in garags.
+
+class MyClass
+{
+
+    /// <summary>
+    /// I'm bit weak today.
+    /// </summary>
+    public void MyMethod()
+    {
+
+
+    }
+
+    /// <summary>
+    /// this is a documentation for specific member.
+    /// </summary>
+    public void Test2()
+    {
+
+    }
+}

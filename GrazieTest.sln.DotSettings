@@ -1,43 +1,43 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=GrammarMistake/@EntryIndexedValue">ERROR</s:String>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/GrammarChecking/Exceptions/=ala_0020mamma/@EntryIndexedValue">False</s:Boolean>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Asturianu/@EntryIndexedValue">Enabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Brezhoneg/@EntryIndexedValue">Enabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Asturianu/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Brezhoneg/@EntryIndexedValue">Disabled</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Catal_00E0/@EntryIndexedValue">Disabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Catal_00E0_0020_0028Valenci_00E0_0029/@EntryIndexedValue">Enabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Dansk/@EntryIndexedValue">Enabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Catal_00E0_0020_0028Valenci_00E0_0029/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Dansk/@EntryIndexedValue">Disabled</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Deutsch_0020_0028Deutschland_0029/@EntryIndexedValue">Disabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Deutsch_0020_0028_00D6sterreich_0029/@EntryIndexedValue">Enabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Deutsch_0020_0028_00D6sterreich_0029/@EntryIndexedValue">Disabled</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=English_0020_0028Canada_0029/@EntryIndexedValue">Disabled</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=English_0020_0028Great_0020Britain_0029/@EntryIndexedValue">Disabled</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=English_0020_0028USA_0029/@EntryIndexedValue">Enabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Espa_00F1ol/@EntryIndexedValue">Enabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Esperanto/@EntryIndexedValue">Enabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Fran_00E7ais/@EntryIndexedValue">Enabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Gaeilge/@EntryIndexedValue">Enabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Galego/@EntryIndexedValue">Enabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Italiano/@EntryIndexedValue">Enabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Espa_00F1ol/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Esperanto/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Fran_00E7ais/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Gaeilge/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Galego/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Italiano/@EntryIndexedValue">Disabled</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Nederlands/@EntryIndexedValue">Enabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Polski/@EntryIndexedValue">Enabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Polski/@EntryIndexedValue">Disabled</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Portugu_00EAs_0020_0028Angola_0029/@EntryIndexedValue">Disabled</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Portugu_00EAs_0020_0028Brasil_0029/@EntryIndexedValue">Disabled</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Portugu_00EAs_0020_0028Mo_00E7ambique_0029/@EntryIndexedValue">Disabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Portugu_00EAs_0020_0028Portugal_0029/@EntryIndexedValue">Enabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Rom_00E2n_0103/@EntryIndexedValue">Enabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Sloven_010Dina/@EntryIndexedValue">Enabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Sloven_0161_010Dina/@EntryIndexedValue">Enabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Svenska/@EntryIndexedValue">Enabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Tagalog/@EntryIndexedValue">Enabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=_0395_03BB_03BB_03B7_03BD_03B9_03BA_03AC/@EntryIndexedValue">Enabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=_0411_0435_043B_0430_0440_0443_0441_043A_0430_044F/@EntryIndexedValue">Enabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Portugu_00EAs_0020_0028Portugal_0029/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Rom_00E2n_0103/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Sloven_010Dina/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Sloven_0161_010Dina/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Svenska/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Tagalog/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=_0395_03BB_03BB_03B7_03BD_03B9_03BA_03AC/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=_0411_0435_043B_0430_0440_0443_0441_043A_0430_044F/@EntryIndexedValue">Disabled</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=_0420_0443_0441_0441_043A_0438_0439/@EntryIndexedValue">Enabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=_0423_043A_0440_0430_0457_043D_0441_044C_043A_0430/@EntryIndexedValue">Enabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=_0627_0644_0639_0631_0628_064A_0629_064F/@EntryIndexedValue">Enabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=_0641_0627_0631_0633_06CC/@EntryIndexedValue">Enabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=_0BA4_0BAE_0BBF_0BB4_0BCD/@EntryIndexedValue">Enabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=_1797_17B6_179F_17B6_1781_17D2_1798_17C2_179A/@EntryIndexedValue">Enabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=_4E2D_6587/@EntryIndexedValue">Enabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=_65E5_672C_8A9E/@EntryIndexedValue">Enabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=_0423_043A_0440_0430_0457_043D_0441_044C_043A_0430/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=_0627_0644_0639_0631_0628_064A_0629_064F/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=_0641_0627_0631_0633_06CC/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=_0BA4_0BAE_0BBF_0BB4_0BCD/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=_1797_17B6_179F_17B6_1781_17D2_1798_17C2_179A/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=_4E2D_6587/@EntryIndexedValue">Disabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=_65E5_672C_8A9E/@EntryIndexedValue">Disabled</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/RulesStates/=LanguageTool_002EGA_002EAG_005FAN_005FAONACH/@EntryIndexedValue">EnabledByUser</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/RulesStates/=LanguageTool_002EGA_002EAG_005FAN_005FLEIBH_00C9AL/@EntryIndexedValue">EnabledByUser</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/RulesStates/=LanguageTool_002EGL_002EDETRAS_005FMINHA/@EntryIndexedValue">DisabledByUser</s:String>

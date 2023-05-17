@@ -32,6 +32,11 @@ namespace Xaml
             string s = Properties.Resources.MainWindow_MainWindow_string_in_resource;
         }
 
+        /// <summary>
+        /// Interaction logic for MainWindow.xaml
+        /// Window.xaml
+        /// ClassTest.cs
+        /// </summary>
         private void ButtonBase_OnClick(object sender, RoutedEventArgs e)
         {
             throw new NotImplementedException();

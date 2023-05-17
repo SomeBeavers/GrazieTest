@@ -44,10 +44,15 @@
     <Compile Include="Class1.cs" />
     <Compile Include="Ignore_ignored.cs" />
     <Compile Include="Inheritance.cs" />
+    <Compile Include="Playground\Class1.cs" />
+    <Compile Include="Playground\Comments.cs" />
     <Compile Include="Playground\Play1.cs" />
+    <Compile Include="Playground\Play2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Typos.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Playground\docs.xml" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

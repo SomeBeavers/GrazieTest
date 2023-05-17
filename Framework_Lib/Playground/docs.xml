@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<extradoc>
+  <class name="IntList">
+    <summary>
+      Contains a list of integers.
+    </summary>
+  </class>
+  <class name="StringList">
+    <summary>
+      Contains a list of strings.
+    </summary>
+  </class>
+</extradoc>

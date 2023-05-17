@@ -44,7 +44,8 @@
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/GrammarChecking/Scope/CheckInDocumentation/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/GrammarChecking/Scope/CheckInStringLiterals/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/IgnoredWords/=modificators/@EntryIndexedValue">False</s:Boolean>
-	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/IgnoredWords/=Modificators/@EntryIndexedValue">True</s:Boolean>
-	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/IgnoredWords/=Shamsutdinova/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/IgnoredWords/=Modificators/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/IgnoredWords/=Shamsutdinova/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/IgnoredWords/=shamsutdinova/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/IgnoredWords/=Shamsutdinvoa/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/Scope/CheckVerbatimStrings/@EntryValue">True</s:Boolean></wpf:ResourceDictionary>

@@ -16,6 +16,7 @@
         <!--This is different from that.-->
         <Button Click="ButtonBase_OnClick" Content="I&apos;m bit weak today. But it is ok apparently. Comentith typo.">
         </Button>
+        <TextBlock Text="We should not do anything hasty here so it would apparently help us more then hinder."></TextBlock>
     </Grid>
 
 </Window>

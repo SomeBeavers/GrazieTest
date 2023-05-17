@@ -49,6 +49,7 @@
     <Compile Include="Playground\Play1.cs" />
     <Compile Include="Playground\Play2.cs" />
     <Compile Include="Playground\Play3.cs" />
+    <Compile Include="Playground\Play4.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Typos.cs" />
   </ItemGroup>

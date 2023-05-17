@@ -4,5 +4,5 @@
     console.log("Square root:  " + squareRoot);
 }
 var num: number = Math.random();
-// num. I'm bit weak today. Nice!
+// num. I'm bit weak today. Nice! I'm bit weak today so it is a bummer.
 mathTest(num);

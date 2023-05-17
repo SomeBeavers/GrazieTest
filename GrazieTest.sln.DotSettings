@@ -5,14 +5,14 @@
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Brezhoneg/@EntryIndexedValue">Default</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Catal_00E0/@EntryIndexedValue">Default</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Catal_00E0_0020_0028Valenci_00E0_0029/@EntryIndexedValue">Default</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Dansk/@EntryIndexedValue">Default</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Dansk/@EntryIndexedValue">Disabled</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Deutsch_0020_0028Deutschland_0029/@EntryIndexedValue">Enabled</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Deutsch_0020_0028_00D6sterreich_0029/@EntryIndexedValue">Default</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=English_0020_0028Canada_0029/@EntryIndexedValue">Default</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=English_0020_0028Great_0020Britain_0029/@EntryIndexedValue">Default</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=English_0020_0028USA_0029/@EntryIndexedValue">Enabled</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Espa_00F1ol/@EntryIndexedValue">Default</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Esperanto/@EntryIndexedValue">Default</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Esperanto/@EntryIndexedValue">Disabled</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Fran_00E7ais/@EntryIndexedValue">Default</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Gaeilge/@EntryIndexedValue">Default</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Galego/@EntryIndexedValue">Disabled</s:String>
@@ -43,6 +43,8 @@
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/RulesStates/=LanguageTool_002EGL_002EDETRAS_005FMINHA/@EntryIndexedValue">DisabledByUser</s:String>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/GrammarChecking/Scope/CheckInDocumentation/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/GrammarChecking/Scope/CheckInStringLiterals/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/IgnoredWords/=modificators/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/IgnoredWords/=Modificators/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/IgnoredWords/=Shamsutdinova/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/IgnoredWords/=Shamsutdinvoa/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/Scope/CheckVerbatimStrings/@EntryValue">True</s:Boolean></wpf:ResourceDictionary>

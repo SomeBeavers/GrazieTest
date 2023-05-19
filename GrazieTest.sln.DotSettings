@@ -1,8 +1,10 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Galego/@EntryIndexedValue">Enabled</s:String>
+	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=CommentTypo/@EntryIndexedValue">WARNING</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Galego/@EntryIndexedValue">Disabled</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=_0420_0443_0441_0441_043A_0438_0439/@EntryIndexedValue">Enabled</s:String>
-	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Deutsch_0020_0028Deutschland_0029/@EntryIndexedValue">Enabled</s:String>
+	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Deutsch_0020_0028Deutschland_0029/@EntryIndexedValue">Disabled</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=Nederlands/@EntryIndexedValue">Enabled</s:String>
+	<s:Boolean x:Key="/Default/GrammarAndSpelling/GrammarChecking/Scope/CheckInDocumentation/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/GrammarChecking/Scope/CheckInStringLiterals/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/IgnoredWords/=Shamsutdinova/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/GrammarAndSpelling/SpellChecking/IgnoredWords/=_043A_043E_043C_0435_043D_0442/@EntryIndexedValue">False</s:Boolean></wpf:ResourceDictionary>

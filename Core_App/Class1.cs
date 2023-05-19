@@ -6,6 +6,11 @@ public class Class1
     {
         var i = ints[1..1];
 
+        // Тест Комент с опечаткой 
+        // shamsutdinova
+        //Shamsutdinova
 
+        //I'm
+        //bit confused today
     }
 }

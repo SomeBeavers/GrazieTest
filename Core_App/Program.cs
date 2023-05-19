@@ -11,14 +11,20 @@ Console.WriteLine("hello my dear World!");
 // I'm
 // bit
 // weak
-//
-// today so lets do some exercises.
+// today so
+// lets do some (exercises
+//  ).
 // I'm bit weak today.
 
 // the my car is in garags.
 
 class MyClass
 {
+    public void Test()
+    {
+        string s = "hello";
+
+    }
 
     /// <summary>
     /// I'm bit weak today.

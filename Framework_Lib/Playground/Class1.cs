@@ -23,27 +23,40 @@ namespace FolkerKinzel.CsvTools
         /// Vén xusto detrás miña.   
         /// </summary>
         /// <param name="name">
-        ///     Vén xusto detrás miña.   
-        ///     Vén xusto detrás miña.   
+        ///          Vén         xusto detrás miña.   
+        ///      Vén xusto detrás miña.   
         /// </param>
         public void Test(string name) { }
 
         //Sucht eine lokalisierte Zeichenfolge, die
         //ähnet.
-        public static readonly a propertyNameProperty = a.RegisterAttached(
-            "propertyName", typeof(propertyType), typeof(Galego), new PropertyMetadata(default(propertyType)));
 
-        public static void SetpropertyName(DependencyObject element, propertyType value)
-        {
-            element.SetValue(propertyNameProperty, value);
-        }
-
-        public static propertyType GetpropertyName(DependencyObject element)
-        {
-            return (propertyType)element.GetValue(propertyNameProperty);
-        }
-        // This is a
+        // This is
         // coment.
     }
+
+    public class Class12222
+    {
+        /// <summary>
+        /// Initializes a <paramref name="source"/>, so <see cref="Class1"/>'s
+        /// properties are set to <paramref name="source"/>'s values.
+        /// </summary>
+        public void Test(string source)
+        {
+            Source = source;
+        }
+
+        public string Source { get; set; }
+    }
+
+    //            Aquel es el camino.
+
+    /*
+     * test is written     here a bit of weak today so dis is dat.
+     */
+
+    /*
+     *        Aquél      es el camino.
+     */
 
 }

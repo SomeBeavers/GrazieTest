@@ -104,6 +104,7 @@ class MasterFileLockedOpenException : System.Exception { }
                 /// <param name="string">query to execute</param>
                 public List<T> FetchData<T>(string query)
                 {
+                    return null;
                 }
 
                 public class Point

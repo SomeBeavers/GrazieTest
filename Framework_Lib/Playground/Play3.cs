@@ -25,7 +25,7 @@
     // This is a good enum DateTimeStyles.NoCurrentDateDefault.
     // Though typo is not a problem 
     // so lets check it out.
-    -
+
     // Sucht eine lokalisierte Zeichenfolge,
     // die DateTimeStyles.NoCurrentDateDefault ähnelt.
     // Ich werde sein.

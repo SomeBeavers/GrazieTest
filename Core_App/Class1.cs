@@ -5,12 +5,9 @@ public class Class1
     public void Test(int[] ints)
     {
         var i = ints[1..1];
+        // коммент с опечаткой 
 
-        // Тест Комент с опечаткой 
-        // shamsutdinova
-        //Shamsutdinova
+        // moeilijk
 
-        //I'm
-        //bit confused today
     }
 }

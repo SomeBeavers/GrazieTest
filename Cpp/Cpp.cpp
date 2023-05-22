@@ -9,7 +9,7 @@ int main()
     //this is different then that.
     int coutVariable = 1;
 	auto r_test_tring = R"(I'm bit confused about the R()";
-    std::cout << "Hello Word!\n";
+    std::cout << "Helo Word!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

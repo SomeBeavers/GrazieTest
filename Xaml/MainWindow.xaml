@@ -11,6 +11,9 @@
             <CalendarButton.AllowDrop>False</CalendarButton.AllowDrop>
     
         </CalendarButton>
+        <Button Content="I'm a bit weak today. But it is ok, apparently."></Button>
+
+        <TextBlock Text="We should not do anything hasty here so it would apparently help us more then hinder."></TextBlock>
         <!--Im coment AliceBlue. I needed to safe the luggage on top of the van.-->
 <!--     -->
         <!--This is different from that.-->

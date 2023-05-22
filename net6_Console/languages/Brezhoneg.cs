@@ -13,4 +13,17 @@ public class Brezhoneg
         string bleuñveotroheolhere = "Bleuñvd Eo Tro Heol";
         string bleuñveotroheolhere2 = "Bleuñv Eo Tro Heol";
     }
+
+
+    public class Brezhoneg2
+    {
+        // Verão de Sam. Nectariniidae.
+        // Tro-heol eo bleuñvd.
+        private void BleuñvEoTroHeol()
+        {
+            string bleuñveotroheolhere = "Bleuñvd Eo Tro Heol";
+            string bleuñveotroheolhere2 = "Bleuñv Eo Tro Heol";
+        }
+    }
+
 }

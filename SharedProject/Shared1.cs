@@ -6,6 +6,58 @@ namespace SharedProject
 {
     internal class Shared1
     {
+
+        /*
+         * English(Canada)
+         * ---------------------
+         * no typo:
+         * theatre
+         *
+         * typo:
+         * theater
+         *
+         * English(Great Britain)
+         * ---------------------
+         * no typo:
+         * travelling
+         * flavour
+         *
+         * typo:
+         * 	traveling
+         *
+         * Русский
+         * ---------------------
+         * no typo:
+         * ох, русский сложно
+         *
+         * typo:
+         * Ощень сложно ←-----------------------------------------
+         * Локалная
+         *
+         * English(Canada)
+         * ---------------------
+         * no typo:
+         * theatre
+         *
+         * typo:
+         * theater
+         *
+         * English(Great Britain)
+         * ---------------------
+         * no typo:
+         * travelling
+         * flavour
+         *
+         * typo:
+         * 	traveling
+         *
+         *coment
+         */
+
+        // Ощень сложно ←-----------------------------------------
+
+
+
         // Test my comment
         // I'm bit angry today
 
@@ -27,7 +79,8 @@ int t = 1;
         }
 #else
         // Tst my coment
-        // another coment is here
+        // another coment is here.
+        // I'm bit angry today.
 
         public void Coment()
         {

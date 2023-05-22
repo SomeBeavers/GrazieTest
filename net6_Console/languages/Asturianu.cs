@@ -4,9 +4,12 @@ public class Asturianu
 {
     private void Asturianu2()
     {
-        // coment in English. It looks like.
+        // cómo tas boes tardes bones dias! que aguanta. Vien cada ún per separtao.
+        // Vien cada ún per separtao. Espérote en la estación.
 
-        string cómoTasBonesTardesBonesDías = "cómo tas bones tardes bones dias! que aguanta";
+#pragma warning disable CS0219
+        string cómoTasBonesTardsBonesDías = "cómo tas bones tardes bones dias! que aguanta";
+#pragma warning restore CS0219
         // Vien cada ún per separtao.
         // cómo tas bones tardes bones dias. que aguanta.
         // Foi a el cine cola so hermana.

@@ -16,7 +16,7 @@
 
     class MyClass
     {
-        public void UseAcount(Acount acount1)
+        public void UseAcountTest(Acount acount1)
         {
             // This acount is different than acount1.
             var acount = new Acount(1, "");

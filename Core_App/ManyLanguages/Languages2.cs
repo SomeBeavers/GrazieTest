@@ -13,10 +13,19 @@ public class NamenBelomen
     }
     /*
     * Am österreichischen Deutsch zeigt sich die pluripotent
+    * Am österreichischen Deutsch zeigt sich die pluripotent
+    * Am österreichischen Deutsch zeigt sich die pluripotent
+    * Am österreichischen Deutsch zeigt sich die pluripotent
+    * Am österreichischen Deutsch zeigt sich die pluripotent
+    * Am österreichischen Deutsch zeigt sich die pluripotent
+    * Am österreichischen Deutsch zeigt sich die pluripotent
+    * Am österreichischen Deutsch zeigt sich die pluripotent
+    * Am österreichischen Deutsch zeigt sich die pluripotent
+    * Am österreichischen Deutsch zeigt sich die pluripotent
     */
     
     /// <summary>
-    /// 
+    /// камент на русском тут должен быть
     /// </summary>
     public void Test()
     {

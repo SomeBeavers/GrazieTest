@@ -14,13 +14,19 @@ public class NamenBelomen
     /*
     * Am österreichischen Deutsch zeigt sich die pluripotent
     */
-    
+
+    // AFAIR, this is a comment but FYI it is in German.
+    // UPD: not sure if it is a comment, but it is in German.
+    // update is needed here, FYI.
+    // This is comments, but in German.
+    // coment with typo here is SB. SB is an abbreviation for "sehr gut" in German.
+
     /// <summary>
-    /// 
+    /// "test is over here (in the method.
     /// </summary>
     public void Test()
     {
-
+        // het is genoeg, denk ik, om de naam te krijgen. We willen het doen omdat het interessant is.
     }
 
     public string einen_namen_bekommen()

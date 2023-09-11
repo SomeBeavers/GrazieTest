@@ -3,23 +3,29 @@
         <RouteView RouteData="@routeData" DefaultLayout="@typeof(MainLayout)" />
         <FocusOnNavigate RouteData="@routeData" Selector="h1" />
     </Found>
-    <NotFound>
-        <PageTitle title="This is different then that. coment">Not found</PageTitle>
-        <LayoutView Layout="@typeof(MainLayout)">
-            <p role="alert">Sorry, 
-                
-                
-                
-                
-                
-                
-                there's nothing at this address.
-            
-                coment. I'm 
-                bit 
-                weak today.'
-                This is different then that.
-                </p>
-        </LayoutView>
-    </NotFound>
+	<NotFound>
+		@* What must i do? *@
+		<PageTitle title="This is different then that. coment">Not (
+			<p>at all </p>) found! What must <a>link</a> i do?</PageTitle>
+		<LayoutView Layout="@typeof(MainLayout)">
+			<p role="alert">Sorry,
+
+
+
+
+
+
+				there's nothing at this address.
+
+				coment. I'm
+				bit
+				weak today.'
+				This is different then that.
+			</p>
+		</LayoutView>
+		@* <td>@forecast.Date.ToShortDateString()</td>*@
+		@* coment*@
+
+		@* 	MainWindow.cs is the main window :)*@
+	</NotFound>
 </Router>

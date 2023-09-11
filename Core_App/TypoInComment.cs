@@ -29,6 +29,14 @@ using System.ComponentModel;
 
 namespace Core_App;
 
+class Asdf
+{
+    void M()
+    {
+        _ = new Qwerty();
+    }
+}
+
 /// <summary>
 /// A simple class that stores <see cref="string"/>s as <see cref="T:char[]"/>'s in a
 /// hash table.  Note that these
@@ -81,6 +89,7 @@ public class TypoInComment
         /* That is called
         called: "Too much work"*/
     }
+    // modificators are not used anywhere in the code. Shamsutdinova
 
     /// <summary>
     ///     which are called
@@ -102,6 +111,11 @@ public class TypoInComment
     // These function depend on another function so they should called aftr it.
     public void Test3()
     {
+        object foo = ("hello", "world");
+        var bar = foo as (string, string)?;
+        if (bar != null) { Console.WriteLine(bar.Value.Item1); }
+
+
         /*
     Generate following code example in
         the

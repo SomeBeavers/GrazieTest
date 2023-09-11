@@ -8,5 +8,5 @@
      --%>
     <a></a>
     <abbr title="Phone infomation. I'm bit weak today.">This is different then the other pages.</abbr>
-    <asp:Label ID="lbl" runat="server" Text="Label text my infomation"></asp:Label>
+    <asp:Label ID="lbl" runat="server" Text="Label text my infomation"> </asp:Label>
 </asp:Content>
